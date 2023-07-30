@@ -5,7 +5,7 @@
 - 📫 How to reach me: Please contact me on LinkedIn or Email me
 
  **BACKGROUND**
-I graduated with a Bachelor of Technology degree in Metallurgy and Materials Engineering from the National Institute of Technology, Durgapur. I have experience working for INSPIRE Internship (Tata Steel Ltd, Jamshedpur; Summer of 2019) and as a Business Operations Associate (ZS Associates Inc, Pune; Summer of 2021-Summer of 2022). Currently, I am doing my Master's in Data Science at the Vellore Institute of Technology.
+I graduated with a Bachelor of Technology degree in Metallurgy and Materials Engineering from the National Institute of Technology, Durgapur. I have experience working for INSPIRE Internship (Tata Steel Ltd, Jamshedpur; May'19 - Jul'19) and as a Business Operations Associate (ZS Associates Inc, Pune; Apr'21 - Jul'22). Currently, I am doing my Master's in Data Science at the Vellore Institute of Technology.
 
 I am a passionate individual with a diverse range of hobbies: a book reader exploring new worlds, a ukulele and keyboard musician, a crochet artist creating unique pieces, and an animal rescuer dedicated to welfare work. My main aim in life is the optimisation of anything and everything and I try to incorporate it in my professional as well as personal interest. 
 
