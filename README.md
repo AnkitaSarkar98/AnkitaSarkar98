@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ankita Sarkar
+<h1 align="center">Hi 👋, I'm Ankita Sarkar</h1>
+<h3 align="center">A passionate Data Science Engineer from India</h3>
 - 👀 I’m interested in various aspects of Data Science and Data Analytics 
 - 🌱 I’m currently studying to gain my Master's of Data Science Degree
 - 💞️ I’m looking to collaborate on any present Data Science Projects or any open projects
